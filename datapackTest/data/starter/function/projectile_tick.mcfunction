@@ -1,0 +1,1 @@
+execute as @e[type=#starter:projectiles] at @s run function starter:convert_projectile
