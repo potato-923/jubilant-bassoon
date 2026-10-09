@@ -3,15 +3,12 @@
     "hit": {
       "trigger": "minecraft:player_hurt_entity",
       "conditions": {
-        "damage": {
-          "type": {
-            "direct_entity": {
-              "type": "minecraft:player",
-              "equipment": {
-                "mainhand": {
-                  "items": "minecraft:stick"
-                }
-              }
+        "player": {
+          "equipment": {
+            "mainhand": {
+              "items": [
+                "minecraft:stick"
+              ]
             }
           }
         }
