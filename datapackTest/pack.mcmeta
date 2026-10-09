@@ -1,7 +1,5 @@
 {
-  "pack": {
-    "description": "Datapack Test",
-    "min_format": [121, 0],
-    "max_format": [121, 0]
-  }
+    "pack": {
+        "description": "Datapack Test"
+    }
 }
